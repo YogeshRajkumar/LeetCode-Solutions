@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Two Pointers
 |  |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
@@ -74,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -95,4 +100,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
