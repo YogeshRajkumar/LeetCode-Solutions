@@ -11,7 +11,7 @@
  */
 public class Solution {
     public boolean hasCycle(ListNode head) {
-        ListNode res=new ListNode(0);
+        ListNode res=new ListNode(-1);
         ListNode fast=res;
         ListNode slow=res;
         res.next=head;
