@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0454-4sum-ii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0454-4sum-ii) |
 | [0704-binary-search](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0454-4sum-ii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0454-4sum-ii) |
 ## Greedy
 |  |
 | ------- |
