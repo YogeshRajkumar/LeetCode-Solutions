@@ -6,7 +6,7 @@ class Solution {
             if(arr[row][col]==target){
                 return true;
             }
-            if(arr[row][col]>target){
+            if(target<arr[row][col]){
                 col--;
             }
             else{
