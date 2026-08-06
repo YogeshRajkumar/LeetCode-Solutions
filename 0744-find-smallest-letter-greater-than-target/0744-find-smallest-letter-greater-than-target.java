@@ -5,7 +5,7 @@ class Solution {
         while(l<=r){
             int mid=(l+r)/2;
             if(arr[mid]<=target){
-                l=mid+1;;
+                l=mid+1;
             }
             else{
                 r=mid-1;
