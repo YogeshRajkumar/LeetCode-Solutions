@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1470-shuffle-the-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Trie
 |  |
 | ------- |
