@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
