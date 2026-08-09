@@ -1,13 +1,13 @@
 class Solution {
-    public int findGCD(int[] nums) {
+    public int findGCD(int[] arr) {
         int max=Integer.MIN_VALUE;
         int min=Integer.MAX_VALUE;
-        for(int i=0;i<nums.length;i++){
-            if(max<nums[i]){
-                max=nums[i];
+        for(int i:arr){
+            if(max<i){
+                max=i;
             }
-            if(min>nums[i]){
-                min=nums[i];
+            if(min>i){
+                min=i;
             }
         }
         return GCD(max,min);
