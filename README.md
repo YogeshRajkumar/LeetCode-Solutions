@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 ## Ternary Search
 |  |
 | ------- |
