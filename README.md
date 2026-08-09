@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1957-delete-characters-to-make-fancy-string](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 ## Binary Search
 |  |
 | ------- |
