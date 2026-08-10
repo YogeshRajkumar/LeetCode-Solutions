@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
+| [2460-apply-operations-to-an-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2460-apply-operations-to-an-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Number Theory
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0443-string-compression) |
+| [2460-apply-operations-to-an-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
