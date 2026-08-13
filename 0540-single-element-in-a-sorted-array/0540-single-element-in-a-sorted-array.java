@@ -4,16 +4,20 @@ class Solution {
         int r=arr.length-1;
         while(l<r){
             int mid=(l+r)/2;
-            if(mid%2==0){
-                mid++;
+            if(mid%2!=0){
+                mid--;
             }
-            if(arr[mid-1]==arr[mid]){
-                l=mid+1;
+            if(arr[mid]==arr[mid+1]){
+                l=mid+2;
             }
             else{
-                r=mid-1;
+                r=mid;
             }
         }
         return arr[l];
     }
 }
+/*
+if all double then the middle should be odd 
+else there is duplicate on either one side
+*/
