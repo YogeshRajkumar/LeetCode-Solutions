@@ -1,6 +1,5 @@
 class Solution {
     public int singleNonDuplicate(int[] arr) {
-        Arrays.sort(arr);
         int l=0;
         int r=arr.length-1;
         while(l<r){
