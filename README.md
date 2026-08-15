@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0771-jewels-and-stones](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0454-4sum-ii) |
 | [0705-design-hashset](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Queue
 |  |
