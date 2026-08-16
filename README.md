@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Trie
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 ## Ternary Search
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Queue
 |  |
 | ------- |
