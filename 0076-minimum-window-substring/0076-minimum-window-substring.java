@@ -44,15 +44,15 @@ class Solution {
             return "";
         }
         int[] arr=new int[123];
-        int l=0;
-        int r=0;
-        int start=0;
-        int count=n;
-        int end=0;
-        int min=Integer.MAX_VALUE;
         for(char i:t.toCharArray()){
             arr[i]++;
         }
+        int l=0;
+        int r=0;
+        int count=n;
+        int start=0;
+        int end=0;
+        int min=Integer.MAX_VALUE;
         while(r<m){
             char ch=s.charAt(r);
             if(arr[ch]>0){
@@ -74,6 +74,6 @@ class Solution {
             }
             r++;
         }
-        return min==Integer.MAX_VALUE ? "" : s.substring(start,end+1);
+        return min==Integer.MAX_VALUE ? "" : s.substring(start,end+1); 
     }
 }
