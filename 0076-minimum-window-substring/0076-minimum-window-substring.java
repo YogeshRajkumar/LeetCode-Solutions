@@ -51,7 +51,6 @@ class Solution {
         int r=0;
         int count=n;
         int start=0;
-        int end=0;
         int min=Integer.MAX_VALUE;
         while(r<m){
             char ch=s.charAt(r);
@@ -63,7 +62,6 @@ class Solution {
                 if(min>r-l+1){
                     min=r-l+1;
                     start=l;
-                    end=r;
                 }
                 char last=s.charAt(l);
                 arr[last]++;
@@ -74,6 +72,6 @@ class Solution {
             }
             r++;
         }
-        return min==Integer.MAX_VALUE ? "" : s.substring(start,end+1); 
+        return min==Integer.MAX_VALUE ? "" : s.substring(start,start+min); 
     }
 }
