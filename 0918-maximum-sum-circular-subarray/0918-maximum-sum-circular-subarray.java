@@ -7,7 +7,7 @@ class Solution {
         int sum=0;
         for(int i:arr){
             currMax=Math.max(i,currMax+i);
-            max=Math.max(max,currMax);
+            max=Math.max(currMax,max);
             currMin=Math.min(i,currMin+i);
             min=Math.min(min,currMin);
             sum+=i;
