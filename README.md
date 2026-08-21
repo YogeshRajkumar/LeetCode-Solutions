@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [1323-maximum-69-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 ## Sorting
 |  |
