@@ -21,10 +21,7 @@ class Solution {
         int max=0;
         while(r<s.length()){
             char ch=s.charAt(r);
-            if(!arr[ch]){
-                arr[ch]=true;
-            }
-            else{
+            if(arr[ch]){
                 while(arr[ch]){
                     arr[s.charAt(l)]=false;
                     l++;
