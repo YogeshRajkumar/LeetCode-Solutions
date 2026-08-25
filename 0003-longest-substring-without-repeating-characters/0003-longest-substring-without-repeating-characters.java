@@ -21,11 +21,9 @@ class Solution {
         int max=0;
         while(r<s.length()){
             char ch=s.charAt(r);
-            if(arr[ch]){
-                while(arr[ch]){
-                    arr[s.charAt(l)]=false;
-                    l++;
-                }
+            while(arr[ch]){
+                arr[s.charAt(l)]=false;
+                l++;
             }
             arr[ch]=true;
             max=Math.max(max,r-l+1);
