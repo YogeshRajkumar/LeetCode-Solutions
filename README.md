@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0705-design-hashset) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0454-4sum-ii) |
 | [0525-contiguous-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0860-lemonade-change](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [1323-maximum-69-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 ## Sorting
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Stack
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -454,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 ## Monotonic Queue
 |  |
 | ------- |
