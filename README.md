@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
