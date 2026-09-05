@@ -1,6 +1,6 @@
 class Solution {
     public int[][] merge(int[][] arr) {
-        ArrayList<int[]> obj=new ArrayList<>();
+        List<int[]> obj=new ArrayList<>();
         Arrays.sort(arr,(a,b)->a[0]-b[0]);
         for(int i=0;i<arr.length;i++){
             int last=obj.size()-1;
@@ -12,5 +12,6 @@ class Solution {
             }
         }
         return obj.toArray(new int[obj.size()][2]);
+        // return obj.toArray(new int[obj.size()][]);
     }
 }
