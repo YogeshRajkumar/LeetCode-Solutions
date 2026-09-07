@@ -18,23 +18,22 @@ class Solution {
         //     }
         // }
         // return sum;
-        
+
         int sum=0;
-        for(int i=0;i<s.length();i++){  
-            int cur=Value(s.charAt(i));
-            if(i<s.length()-1 && cur<Value(s.charAt(i+1))){
-                sum-=cur;
+        for(int i=0;i<s.length();i++){
+            int curr=Value(s.charAt(i));
+            if(i<s.length()-1 && curr<Value(s.charAt(i+1))){
+                sum-=curr;
             }
             else{
-                sum+=cur;
+                sum+=curr;
             }
-            
         }
         return sum;
     }
 
     public int Value(char ch){
-        switch (ch){
+        switch(ch){
             case 'I': return 1;
             case 'V': return 5;
             case 'X': return 10;
