@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1089-duplicate-zeros](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1095-find-in-mountain-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
+| [1089-duplicate-zeros](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2460-apply-operations-to-an-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
