@@ -1,4 +1,4 @@
-select p.product_id ,
+select p.product_id,
    round(
     COALESCE((sum(p.price*u.units))/sum(u.units),0)
     ,2
