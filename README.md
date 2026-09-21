@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [2460-apply-operations-to-an-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2562-find-the-array-concatenation-value](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Dynamic Programming
 |  |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2326-spiral-matrix-iv](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [2460-apply-operations-to-an-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2562-find-the-array-concatenation-value](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2562-find-the-array-concatenation-value) |
 ## Number Theory
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2460-apply-operations-to-an-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2562-find-the-array-concatenation-value](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
 |  |
