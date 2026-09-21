@@ -4,8 +4,13 @@ class Solution {
         int r=arr.length-1;
         long res=0;
         while(l<r){
-            String s1=""+arr[l]+arr[r];
-            res+=Integer.parseInt(s1);
+            int b=arr[r];
+            int count=0;
+            while(b>0){
+                b/=10;
+                count++;
+            }
+            res+=(arr[l]*(int)Math.pow(10,count))+arr[r];
             l++;
             r--;
         }
