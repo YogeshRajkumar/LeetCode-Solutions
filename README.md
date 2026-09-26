@@ -575,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-the-latest-login-in-2020](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1890-the-latest-login-in-2020) |
 | [1965-employees-with-missing-information](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1965-employees-with-missing-information) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+| [3436-find-valid-emails](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/3436-find-valid-emails) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
