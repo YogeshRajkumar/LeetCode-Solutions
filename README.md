@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2326-spiral-matrix-iv](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 ## Recursion
 |  |
