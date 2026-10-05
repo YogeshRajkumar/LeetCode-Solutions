@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [2460-apply-operations-to-an-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2562-find-the-array-concatenation-value) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Number Theory
 |  |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## String Matching
 |  |
 | ------- |
