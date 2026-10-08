@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0860-lemonade-change) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0904-fruit-into-baskets](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0918-maximum-sum-circular-subarray](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1137-n-th-tribonacci-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
