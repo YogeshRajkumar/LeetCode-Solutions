@@ -13,8 +13,8 @@ var timeLimit = function(fn, t) {
                     setTimeout(()=>reject("Time Limit Exceeded"),t)
                 })
             ]
-        )
-    }
+        );
+    };
 };
 
 /**
