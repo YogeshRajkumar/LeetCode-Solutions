@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0763-partition-labels](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 ## Matrix
 |  |
 | ------- |
@@ -655,4 +657,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
