@@ -6,6 +6,6 @@ class Solution {
         for(int i=1;i<=n;i++){
             sum+=arr[i];
         }
-        return(double) (sum/(n*1.0));
+        return sum/(n*1.0);
     }
 }
