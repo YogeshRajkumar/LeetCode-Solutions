@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0976-largest-perimeter-triangle](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
+| [0976-largest-perimeter-triangle](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0860-lemonade-change) |
+| [0976-largest-perimeter-triangle](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1323-maximum-69-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0905-sort-array-by-parity](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0976-largest-perimeter-triangle](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -649,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0976-largest-perimeter-triangle](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 ## Memoization
 |  |
 | ------- |
@@ -679,4 +684,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
