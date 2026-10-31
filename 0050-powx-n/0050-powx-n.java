@@ -2,10 +2,9 @@ class Solution {
     public double myPow(double x, int n) {
         // return Math.pow(x,n);
 
-        double res = 1.0;
+        double res=1.0;
         long pow=n;
         if(pow<0){
-            x=1.0/x;
             pow=-pow;
         }
         while(pow>0){
@@ -15,7 +14,7 @@ class Solution {
             x*=x;
             pow/=2;
         }
-        return res;
+        return n<0 ? 1.0/res : res;
 
         // double res=1;
         // if(n<0){
