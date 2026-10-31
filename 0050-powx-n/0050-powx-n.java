@@ -2,15 +2,14 @@ class Solution {
     public double myPow(double x, int n) {
         // return Math.pow(x,n);
 
-        long pow = Math.abs((long) n);
         double res = 1.0;
-        double base = x;
+        long pow = Math.abs((long) n);
         while (pow > 0) {
-            if ((pow & 1) == 1) {
-                res *= base;
+            if (pow % 2 == 1) {
+                res *= x;
             }
-            base *= base;
-            pow >>= 1;
+            x *= x;
+            pow /= 2;
         }
         return n < 0 ? 1.0 / res : res;
 
