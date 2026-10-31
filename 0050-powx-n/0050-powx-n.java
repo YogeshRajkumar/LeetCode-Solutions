@@ -3,15 +3,19 @@ class Solution {
         // return Math.pow(x,n);
 
         double res = 1.0;
-        long pow = Math.abs((long) n);
-        while (pow > 0) {
-            if (pow % 2 == 1) {
-                res *= x;
-            }
-            x *= x;
-            pow /= 2;
+        long pow=n;
+        if(pow<0){
+            x=1.0/x;
+            pow=-pow;
         }
-        return n < 0 ? 1.0 / res : res;
+        while(pow>0){
+            if(pow%2==1){
+                res*=x;
+            }
+            x*=x;
+            pow/=2;
+        }
+        return res;
 
         // double res=1;
         // if(n<0){
