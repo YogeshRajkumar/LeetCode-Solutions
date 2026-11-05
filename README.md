@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2929-distribute-candies-among-children-ii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2929-distribute-candies-among-children-ii) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
@@ -718,4 +719,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+## Combinatorics
+|  |
+| ------- |
+| [2929-distribute-candies-among-children-ii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2929-distribute-candies-among-children-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2929-distribute-candies-among-children-ii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2929-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
