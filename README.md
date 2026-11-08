@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1768-merge-strings-alternately](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1323-maximum-69-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Stack
 |  |
 | ------- |
