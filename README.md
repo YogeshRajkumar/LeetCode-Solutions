@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1929-concatenation-of-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0705-design-hashset](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0705-design-hashset) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 ## Hash Function
 |  |
 | ------- |
