@@ -11,7 +11,9 @@ class Solution {
         for(int i:arr){
             if(i==max){
                 count++;
-                maxCount=Math.max(count,maxCount);
+                if(count>maxCount){
+                    maxCount=count;
+                }
             }
             else{
                 count=0;
