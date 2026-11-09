@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2460-apply-operations-to-an-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
@@ -743,4 +745,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2929-distribute-candies-among-children-ii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2929-distribute-candies-among-children-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
