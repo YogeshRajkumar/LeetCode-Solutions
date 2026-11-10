@@ -35,6 +35,16 @@ class Solution {
         //         }
         //     }
         // }
-        // return obj.isEmpty();   
+        // return obj.isEmpty(); 
+
+        // StringBuilder str=new StringBuilder();
+        // for(char i:s.toCharArray()){
+        //     str.append(i);
+        //     int n=str.length();
+        //     if(n>=3 && str.charAt(n-3)=='a' && str.charAt(n-2)=='b' && str.charAt(n-1)=='c'){
+        //         str.delete(n-3,n);
+        //     }
+        // }
+        // return str.length()==0;  
     }
 }
