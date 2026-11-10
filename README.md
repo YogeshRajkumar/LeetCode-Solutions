@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0763-partition-labels](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
