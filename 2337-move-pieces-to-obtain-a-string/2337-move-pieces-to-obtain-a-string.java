@@ -13,13 +13,14 @@ class Solution {
             if(i==n || j==n){
                 return i==n && j==n;
             }
-            if(str.charAt(i)!=target.charAt(j)){
+            char ch=str.charAt(i);
+            if(ch!=target.charAt(j)){
                 return false;
             }
-            if(str.charAt(i)=='L' && i<j){
+            if(ch=='L' && i<j){
                 return false;
             }
-            if(str.charAt(i)=='R' && j<i){
+            if(ch=='R' && j<i){
                 return false;
             }
             i++;
