@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1957-delete-characters-to-make-fancy-string](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2129-capitalize-the-title](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2129-capitalize-the-title) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [3136-valid-word](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/3136-valid-word) |
