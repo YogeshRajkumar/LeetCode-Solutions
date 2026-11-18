@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1518-water-bottles](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1518-water-bottles) |
+| [1603-design-parking-system](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2326-spiral-matrix-iv](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1603-design-parking-system](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 ## Binary Search
 |  |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0705-design-hashset](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0705-design-hashset) |
+| [1603-design-parking-system](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 ## Hash Function
 |  |
