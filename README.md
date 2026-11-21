@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Stack
 |  |
@@ -713,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Monotonic Queue
 |  |
 | ------- |
