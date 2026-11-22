@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [0763-partition-labels](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2326-spiral-matrix-iv](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2326-spiral-matrix-iv) |
@@ -637,12 +640,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0705-design-hashset](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [1603-design-parking-system](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 ## Database
 |  |
 | ------- |
