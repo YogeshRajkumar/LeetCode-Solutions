@@ -16,20 +16,21 @@ class Solution {
         // return max;
 
         boolean[] arr=new boolean[128];
-        int r=0;
         int l=0;
+        int r=0;
         int max=0;
         while(r<s.length()){
-            char ch=s.charAt(r);
-            while(arr[ch]){
+            int x=s.charAt(r);
+            while(arr[x]){
                 arr[s.charAt(l)]=false;
                 l++;
             }
-            arr[ch]=true;
-            max=Math.max(max,r-l+1);
+            arr[x]=true;
             r++;
+            max=Math.max(max,r-l);
         }
         return max;
+
         
         // int[] arr=new int[128];
         // int r=0;
