@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-capitalize-the-title](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2129-capitalize-the-title) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2337-move-pieces-to-obtain-a-string) |
+| [2405-optimal-partition-of-string](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
 | [3136-valid-word](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/3136-valid-word) |
 | [3330-find-the-original-typed-string-i](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/3330-find-the-original-typed-string-i) |
 ## Simulation
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2062-count-vowel-substrings-of-a-string](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2405-optimal-partition-of-string](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Greedy
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1323-maximum-69-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
+| [2405-optimal-partition-of-string](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
