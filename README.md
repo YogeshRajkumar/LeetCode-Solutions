@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1695-maximum-erasure-value](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1695-maximum-erasure-value](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1695-maximum-erasure-value) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1695-maximum-erasure-value](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1695-maximum-erasure-value) |
 ## Queue
 |  |
 | ------- |
