@@ -12,5 +12,7 @@ class Solution {
             }
         }
         return -1;
+
+        // return haystack.indexOf(needle);
     }
 }
