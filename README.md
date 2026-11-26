@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Dynamic Programming
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2405-optimal-partition-of-string](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Greedy
 |  |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1695-maximum-erasure-value](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1695-maximum-erasure-value) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Queue
 |  |
 | ------- |
