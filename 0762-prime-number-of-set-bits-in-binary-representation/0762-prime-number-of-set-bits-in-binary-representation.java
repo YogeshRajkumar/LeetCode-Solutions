@@ -2,8 +2,7 @@ class Solution {
     public int countPrimeSetBits(int l, int r) {
         int count=0;
         for(int i=l;i<=r;i++){
-            int bit=Integer.bitCount(i);
-            if(isPrime(bit)){
+            if(isPrime(Integer.bitCount(i))){
                 count++;
             }
         }
