@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0263-ugly-number) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -816,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [2929-distribute-candies-among-children-ii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2929-distribute-candies-among-children-ii) |
 ## Brainteaser
@@ -841,9 +845,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1952-three-divisors) |
 ## Primality Test
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
