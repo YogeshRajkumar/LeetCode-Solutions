@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1952-three-divisors](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 ## Bit Manipulation
@@ -812,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [2929-distribute-candies-among-children-ii](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/2929-distribute-candies-among-children-ii) |
 ## Brainteaser
 |  |
@@ -829,4 +832,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/YogeshRajkumar/LeetCode-Solutions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
