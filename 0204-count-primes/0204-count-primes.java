@@ -5,7 +5,7 @@ class Solution {
         for(int i=2;i<=n/i;i++){
             if(arr[i]){
                 for(int j=i*i;j<n;j+=i){
-                    arr[j]=false;;
+                    arr[j]=false;
                 }
             }
         }
